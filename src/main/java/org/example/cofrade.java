@@ -4,7 +4,9 @@ import java.time.LocalDate;
 
 public class cofrade {
 String nombre;
-LocalDate FechadeNacimiento;
+String apellidos;
+int edad;
+LocalDate fechadeNacimiento;
 
 
 }
